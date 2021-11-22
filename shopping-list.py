@@ -18,4 +18,4 @@ y = len(new_list)
 
 print(f"Odwiedziłem {y} sklepy/ów i kupiłem w sumie {x} produktów")
 
-print("Specjalne pozdrowienia dla Mentora")
+print("Specjalne pozdrowienia dla Mentora :)")
