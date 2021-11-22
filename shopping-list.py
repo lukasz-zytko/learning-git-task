@@ -19,3 +19,6 @@ y = len(new_list)
 print(f"Odwiedziłem {y} sklepy/ów i kupiłem w sumie {x} produktów")
 
 print("Specjalne pozdrowienia dla Mentora :)")
+print("Podaj jakąś liczbę")
+x = int(input())
+print(f"Mówisz, {x} ... ja mówię {x+1}, wygrałem :D ...")
