@@ -17,3 +17,5 @@ for sklep, produkt in new_list.items():
 y = len(new_list)
 
 print(f"Odwiedziłem {y} sklepy/ów i kupiłem w sumie {x} produktów")
+
+print("Specjalne pozdrowienia dla Mentora")
