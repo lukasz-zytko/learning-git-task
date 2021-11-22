@@ -1,6 +1,6 @@
 lista_zakupow = {
     "piekarnia": ["chleb", "bułki", "pączek", "ciastko czekoladowe", "foccacia", "rogal"],
-    "warzywniak": ["marchew", "seler", "rukola", "papryka"]
+    "warzywniak": ["marchew", "seler", "rukola", "papryka", "sałata"]
 }
 
 new_list = dict()
