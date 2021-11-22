@@ -14,4 +14,6 @@ for sklep, produkt in new_list.items():
     print(f"Odiwedzam sklep {sklep} i kupuję tam {produkt}")
     x = x + len(produkt)
 
-print(f"W sumie kupuję {x} produktów")
+y = len(new_list)
+
+print(f"Odwiedziłem {y} sklepy/ów i kupiłem w sumie {x} produktów")
